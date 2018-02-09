@@ -10,3 +10,4 @@ spring:
     port: 6379
 server:
   port: 8282
+config.name: teste
